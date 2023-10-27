@@ -9,7 +9,7 @@
  
  - 🔭 I’m currently working on **My own portfolio & personal projects**
  
- - 🌱 I’m currently learning **React**
+ - 🌱 I’m currently learning **Angular**
  
  - 💬 Ask me about **Guitars**
  
