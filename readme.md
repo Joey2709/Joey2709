@@ -18,10 +18,6 @@
  <br/>
  <br/>
 
- <h3> <strong>Connect with me: </strong>
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1_joey" height="30" width="40" /><strong> 1_joey </strong></a>
-</h3>
-
  <br/>
  <br/>
 
